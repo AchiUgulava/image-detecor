@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  height: 100vh;
 }
 
 .center {
@@ -13,5 +14,11 @@
   right: 0;
   bottom: 0;
   left: 0;
-  z-index: -1;
+  
+}
+.content{
+  position: relative;
+  z-index: 1;
+  height:max-content;
+  height: 100%;
 }
