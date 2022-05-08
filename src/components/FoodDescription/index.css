@@ -1,0 +1,9 @@
+article{
+    position: relative;
+    padding-bottom: 40px;
+    width: 500px;
+}
+.text{
+    display: flex;
+    justify-content:space-around;
+}

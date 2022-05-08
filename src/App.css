@@ -22,3 +22,7 @@
   height:max-content;
   height: 100%;
 }
+.reset{
+  position: relative;
+  margin-bottom: 40px;
+}

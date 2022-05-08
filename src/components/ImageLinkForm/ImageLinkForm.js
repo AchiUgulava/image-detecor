@@ -1,7 +1,7 @@
 import React from 'react';
 import './ImageLinkForm.css';
 
-const ImageLinkForm = ({ onInputChange, onButtonSubmit,}) => {
+const ImageLinkForm = ({ onInputChange, onButtonSubmit}) => {
   return ( 
       <div className='center'>
         <div className='form center pa4 br3 shadow-5'>
